@@ -1,12 +1,12 @@
 # Kia Ora! I'm Sonny/Realist2022 👋
 
-Welcome to my GitHub profile! This is where I showcase my projects and learning journey in software development. I'm passionate about web development, mobile apps for full stack applications and constantly exploring new technologies.
+Welcome to my GitHub profile! Here, I share my journey through software development with a focus on full-stack applications. I’m passionate about building end-to-end solutions and enjoy experimenting with new technologies that push the boundaries of what’s possible.
 
 ---
 
 ## About Me
 
-- 🔭 I’m currently working on: A wide range of Full stack applications
+- 🔭 I’m currently working on: A wide range of Full stack applications from AI chat bots to custom vision.
 - 🌱 I’m currently learning: AI tools for advancing technologies and integrating them with full stack development.
 - 🤝 I’m looking to collaborate on: AI Technologies and different ways for integrating them into web designs
 - 💬 Ask me about: AI chatbots, custom vision or full stack development tools and frameworks
