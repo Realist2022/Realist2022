@@ -6,9 +6,9 @@ Welcome to my GitHub profile! This is where I showcase my projects and learning 
 
 ## About Me
 
-- 🔭 I’m currently working on: Full stack development 
-- 🌱 I’m currently learning: AI Tools for evolvong technoligies connecting them full stack development
-- 🤝 I’m looking to collaborate on:  Web design applications
+- 🔭 I’m currently working on: A wide range of Full stack applications
+- 🌱 I’m currently learning: AI tools for advancing technologies and integrating them with full stack development.
+- 🤝 I’m looking to collaborate on: AI Technologies and different ways for integrating them into web designs
 - 💬 Ask me about: AI chatbots, custom vision or full stack development tools and frameworks
 - 📫 How to reach me: https://www.linkedin.com/in/sonny-tapara-245481170/
 
