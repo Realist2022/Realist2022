@@ -17,6 +17,5 @@ Welcome to my GitHub profile! Here, I share my journey through software developm
 
 Feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sonny-tapara-245481170/])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[logifixit@gmail.com])
 https://realist2022.github.io/html-CSS-personal-portfolio/
