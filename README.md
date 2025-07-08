@@ -6,10 +6,10 @@ Welcome to my GitHub profile! Here, I share my journey through software developm
 
 ## About Me
 
-- 🔭 I’m currently working on: A wide range of Full stack applications from AI chat bots to custom vision.
+- 🔭 I’m currently working on: A wide range of Full stack applications from AI chat bots to AI image recognition.
 - 🌱 I’m currently learning: AI tools for advancing technologies and integrating them with full stack development.
-- 🤝 I’m looking to collaborate on: AI Technologies and different ways for integrating them into web designs
-- 💬 Ask me about: AI chatbots, custom vision or full stack development tools and frameworks
+- 🤝 I’m looking to collaborate on: Web Design, Full stack applications and different ways for integrating with microcontrollers.
+- 💬 Ask me about: Full stack development tools and frameworks.
 - 📫 How to reach me: https://www.linkedin.com/in/sonny-tapara-245481170/
 
 
